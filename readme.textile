@@ -1,0 +1,14 @@
+h1. gitのマルチバイト及び日本語テスト
+Multibyte and japanese testing for git
+
+このリポジトリの特徴
+This repository's features
+
+* マルチバイトコミットログのテスト(UTF-8)
+Test of multibyte commiting logs (UTF-8).
+* マルチバイトファイル名のテスト(UTF-8)
+Test of Multibyte filename testing (UTF-8).
+* マルチバイトなテキストのテスト
+Test of Multibyte text testing.
+** ~~~UTF-8.txt is a text with UTF-8 encoding
+** ~~~SJIS.txt is a text with Shift-JIS encoding
